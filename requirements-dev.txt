@@ -1,0 +1,4 @@
+# Optional: browser end-to-end test (tests/e2e) and fraud-service tests
+-r backend/requirements.txt
+-r fraud-service/requirements.txt
+playwright>=1.45
